@@ -82,6 +82,13 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mysqlperf"
 
+repository: "mysqlperf/mysqlperf.github.io"
+comments:
+  provider: "staticman_v2"
+  staticman:
+    branch: "master"
+    endpoint: "https://staticmanapp-mysqlperf.herokuapp.com/v3/entry/github/"
+
 defaults:
   # _posts
   - scope:
