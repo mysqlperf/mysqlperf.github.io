@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   experts from the Databases Services department of Huawei Cloud. We are
   passionate about MySQL performance and would like to share some of our
   findings with the world. Opinions are our own.
-# twitter_username: mysqlperf
+twitter_username: mysqlperf
 github_username: mysqlperf
 minimal_mistakes_skin: default
 search: true
@@ -63,22 +63,19 @@ author:
   name   : "MySQL Performance Blog"
   avatar : "/assets/images/bio-photo.jpg"
 #  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://mysqlperf.github.io"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mysqlperf"
+  # links:
+  #   - label: "Website"
+  #     icon: "fas fa-fw fa-link"
+  #     url: "https://mysqlperf.github.io"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/mysqlperf"
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mysqlperf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mysqlperf"
