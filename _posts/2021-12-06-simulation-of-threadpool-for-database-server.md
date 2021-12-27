@@ -12,7 +12,7 @@ tags:
   - optimization
   - object model
 header:
-  header: /assets/images/threadpool.png
+  teaser: /assets/images/threadpool.png
   og_image: /assets/images/threadpool.png
 ---
 
