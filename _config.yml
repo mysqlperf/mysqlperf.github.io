@@ -82,10 +82,15 @@ footer:
 
 repository: "mysqlperf/mysqlperf.github.io"
 comments:
-  provider: "staticman_v2"
-  staticman:
-    branch: "master"
-    endpoint: "https://staticmanapp-mysqlperf.herokuapp.com/v3/entry/github/"
+  # provider: "staticman_v2"
+  # staticman:
+  #   branch: "master"
+  #   endpoint: "https://staticmanapp-mysqlperf.herokuapp.com/v3/entry/github/"
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
+    label: "comment" # Optional - must be existing label.
 
 defaults:
   # _posts
